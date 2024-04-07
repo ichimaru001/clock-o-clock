@@ -1,3 +1,2 @@
-**Installs the missing dayjs package**
----
+#Installs the missing dayjs package**
 `npm install`
