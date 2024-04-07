@@ -1,2 +1,2 @@
-## Installs the missing packages - dayjs
+## Installs the missing dayjs package
 `npm install`
